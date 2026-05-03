@@ -1,0 +1,2 @@
+S.No.,Date,Description,Zoho Amount,Bank Amount,Difference,Classification,Root Cause,Correction Required
+1,01/01/2026,OPENING BALANCE MISMATCH (placeholder),,,0,Type D,"Source files Arka_Tea_Traders_Zoho_Ledger.csv and Arka_Tea_Traders_HDFC_Statement.pdf were not present in repository, so detailed reconciliation could not be performed.","Upload source files and rerun reconciliation."
